@@ -1,6 +1,6 @@
 # BPELTools
 
-> Collection of tools for [WS-BPEL}(https://www.oasis-open.org/committees/wsbpel/)
+> Collection of tools for [WS-BPEL](https://www.oasis-open.org/committees/wsbpel/)
 
 See <https://github.com/bpeltools/> for an overview of all tools.
 
