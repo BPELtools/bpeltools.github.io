@@ -12,13 +12,11 @@ We developed a web-based editor for BPEL4Chor choreographies using the
 [Oryx-Framework](https://bpt.hpi.uni-potsdam.de/Oryx/) developed by the
 [Hasso-Plattner-Institute](http://www.hpi.uni-potsdam.de/).
 
-The editor can be tried at [http://www.bpel4chor.org/editor](editor).
+The editor is currently not running.
 
 ## Verification of BPEL4Chor
 
-BPEL4Chor can be analysed using
-[BPEL2oWFN](http://www.gnu.org/software/bpel2owfn/) developed by [Niels
-Lohmann](http://www.informatik.uni-rostock.de/~nl).
+BPEL4Chor can be analysed using [BPEL2oWFN](http://www.gnu.org/software/bpel2owfn/) developed by [Dr. Niels Lohmann](http://nlohmann.me/).
 
 ## Publications
 
@@ -163,26 +161,13 @@ presented in the following paper:
 
 This site is under construction. Please visit the homepages of
 
--   [Dr. Gero
-    Decker](http://bpt.hpi.uni-potsdam.de/twiki/bin/view/Public/GeroDecker),
-    worked at the [HPI](http://bpt.hpi.uni-potsdam.de/) and now working
-    for [http://www.signavio.com/](Signavio%20GmbH)
--   [Oliver Kopp](http://www.iaas.uni-stuttgart.de/mitarbeiter/kopp/),
-    worked at the [IAAS](http://www.iaas.uni-stuttgart.de) and now
-    working at the
-    [IPVS](https://www.ipvs.uni-stuttgart.de/index1.html?__locale=en),
-    and
--   [Dr. Niels Lohmann](http://nlohmann.me/), worked at the [University
-    of
-    Rostock](http://wwwteo.informatik.uni-rostock.de/ls_tpp/index.htm).
+-   [Dr. Gero Decker](https://www.linkedin.com/in/gerodecker), worked at the [HPI](http://bpt.hpi.uni-potsdam.de/) and now CEO of [Signavio](http://www.signavio.com)
+-   [Dr. Oliver Kopp](http://orcid.org/0000-0001-6962-4290), worked at the [IAAS](http://www.iaas.uni-stuttgart.de) and now working at the [IPVS](https://www.ipvs.uni-stuttgart.de/index1.html?__locale=en), and
+-   [Dr. Niels Lohmann](http://nlohmann.me/), worked at the [University of Rostock](http://wwwteo.informatik.uni-rostock.de/ls_tpp/index.htm).
 
-for further information and the author's copies of the publications
-listed above.
+for further information and the author's copies of the publications listed above.
 
-Oliver Kopp and Niels Lohmann were partially funded by the
-[Tools4BPEL-Project](http://www2.informatik.hu-berlin.de/top/tools4bpel/),
-which is in turn funded by the [German Federal Ministry of Education and
-Reserach](http://www.bmbf.de/en/index.php). The core concepts of
-BPEL4Chor are part of Tools4BPEL.
+Oliver Kopp and Niels Lohmann were partially funded by the [Tools4BPEL-Project](http://dx.doi.org/10.18419/opus-2652), which is in turn funded by the [German Federal Ministry of Education and Reserach](http://www.bmbf.de/en/index.php).
+The core concepts of BPEL4Chor are part of Tools4BPEL.
 
 [Haftungsausschluss](http://www.disclaimer.de/disclaimer.htm?farbe=FFFFFF/000000/000000/000000)
